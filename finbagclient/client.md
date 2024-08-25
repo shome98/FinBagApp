@@ -1,0 +1,1 @@
+stocks portfolio app based on dot net core 8

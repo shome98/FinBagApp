@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\finbagapisol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:finbagapisol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\dtos\\stock\\fmpstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:dtos\\stock\\fmpstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|c:\\users\\soupo\\desktop\\finbagapp\\finbagapi\\finbagapisol\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC2E63F-0E69-4655-81CD-527CA1BA1294}|finbagapisol.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T18:37:37.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:34:06.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Repositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Repositories\\ICommentRepository.cs",
+              "RelativeToolTip": "Repositories\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:59:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Repositories\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Repositories\\IStockRepository.cs",
+              "RelativeToolTip": "Repositories\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:58:55.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "finbagapisol",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\finbagapisol.csproj",
+              "RelativeDocumentMoniker": "finbagapisol.csproj",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\finbagapisol.csproj",
+              "RelativeToolTip": "finbagapisol.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T17:16:49.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateStockRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeToolTip": "Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:32:43.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FMPStock.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Stock\\FMPStock.cs",
+              "RelativeDocumentMoniker": "Dtos\\Stock\\FMPStock.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Stock\\FMPStock.cs",
+              "RelativeToolTip": "Dtos\\Stock\\FMPStock.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:31:12.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateStockRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeToolTip": "Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:30:03.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCommentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "RelativeToolTip": "Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:28:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeToolTip": "Dtos\\Comment\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:27:36.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Comment\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeToolTip": "Dtos\\Comment\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:25:19.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Stock\\StockDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Stock\\StockDto.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Dtos\\Stock\\StockDto.cs",
+              "RelativeToolTip": "Dtos\\Stock\\StockDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:24:46.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:19:36.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:18:20.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Models\\Portfolio.cs",
+              "RelativeToolTip": "Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:18:09.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\soupo\\Desktop\\FinBagApp\\finbagapi\\finbagapisol\\Models\\Stock.cs",
+              "RelativeToolTip": "Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:17:35.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@finbagapisol_HostAddress = http://localhost:5102
+
+GET {{finbagapisol_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
